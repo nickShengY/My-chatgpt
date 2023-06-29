@@ -25,7 +25,7 @@ This application showcases the use of GPT-4, the large language model developed 
 3. Clone this repo
 4. Download the required LLM models from GPT4All UI and take note of the PATH they're installed to. You will need to change the PATH to your dir that contains the downloaded pre-trained models  
 5. Install the required dependencies `pip install -r requirements.txt`
-6. Add your OpenAI APIKey to line 2 of `apikey.py`
+6. Add your OpenAI APIKey to line 2 of `apikey.py`, if you do not have openai api, you can only use chat and wizard. Btw & FYI, You can also use chat without Internet
 7. Start the app `streamlit run app.py`  
 
 ## 👩‍💻 Author
