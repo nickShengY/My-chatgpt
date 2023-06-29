@@ -10,7 +10,7 @@ This application showcases the use of GPT-4, the large language model developed 
 - **Wizard**(Will generate without OpenAI, but needs Internet): A content generator that uses the model to generate creative titles and scripts.  
 ![Wizard Content Creator](./img/wiz.png)
 
-- **Read Finance**(need OpenAI, not stable to use local LLMs): A feature that uses the model to analyze financial reports. You can upload a PDF of a report, and the model will analyze it and generate a summary.  
+- **Read Finance**(need OpenAI, not stable to use local LLMs): A feature that uses the model to analyze financial reports. You can upload a PDF of a report, and the model will analyze it and generate a summary/ generate the info for you.  
 ![Example Image](./img/fin.png)
 
 - **Code**(need OpenAI, not stable to use local LLMs): Generate and fix code snippets. Input a description of a function or a faulty code snippet, and the model will generate a correct version. (Now support: **Python**, **Java**, **C**, **C++**, **Ruby**, **Scala**, **C#**, **Swift**, **JavaScript**, **GO**, **Kotlin**, **Objective C** )  
