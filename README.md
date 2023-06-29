@@ -26,7 +26,7 @@ This application showcases the use of GPT-4, the large language model developed 
 
 ## 👩‍💻 Author
 **Sheng Yun**
-- Github: [@<nickShengY>](https://github.com/<https://github.com/nickShengY>)
+- Github: [@nickShengY<nickShengY>](https://github.com/nickShengY)
 - Email: <syun13@fordham.edu>/<s24yun@uwaterloo.ca>
 
 
